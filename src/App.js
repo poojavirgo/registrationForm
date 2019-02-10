@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
 import axios from 'axios';
 import RegistrationApp from '../src/registrationForm/registrationForm';
+import './App.css';
 class App extends Component {
 
   state={
